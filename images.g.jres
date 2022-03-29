@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAA8P///////w/wZmZmZmZmBvBmZmb2/2Zm8BYRERb/9g/wFv8f9h/2APAW/x8W//YA8Bb/H/Yf9gDwFv8fFv/2APAWERH2H/YP8GZmZhb/ZmbwZmZmZmZmBvD///////8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Plankton"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAPAzDwAAAAAA8DP/AAAAAADwM/P///8AAPAzMzMz8wD//zMzMzP//w8z/zMzMw8z8TH/PzPzDzMzM/H/M/MAM/Ex//8z8wD//zP/PzPzDwDwP/8zMzP/AAD/MzMzM/MAAPA/8/8/8wAA8DPzAP//AADw//8AAAAAAAD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pat"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
